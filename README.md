@@ -1,27 +1,31 @@
-# A beginner-friendly Java project to understand control flow and program structure.
+# Java Learning Journey 🚀
 
-# Java Calculator System
+This repository contains my journey of learning Java from fundamentals to advanced concepts.
 
-## 📌 Description
-A menu-driven calculator built using Java that performs basic arithmetic operations.
+---
 
-## 🚀 Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-- Handles division by zero
-- User-friendly menu using switch-case
-- Loop-based interaction
+## 📂 Folder Structure
 
-## 🧠 Concepts Used
-- Switch statement
-- Loops (do-while)
-- Conditional statements
-- User input using Scanner
+### 🟢 Java Fundamentals
+- Calculator System
+- More projects coming soon...
 
-## ▶️ How to Run
+---
 
-1. Compile the program: javac Calculator.java
-2. Run the program: java Calculator
+## 🎯 Goals
+- Build strong Java fundamentals
+- Understand problem-solving and logic
+- Progress towards object-oriented programming (OOP)
+
+---
+
+## 🚀 Progress
+✔ Completed:
+- Variables, Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Basic Projects
+
+⏳ Upcoming:
+- OOP Concepts
