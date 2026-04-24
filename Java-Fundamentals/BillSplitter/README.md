@@ -26,10 +26,16 @@ The project focuses on basic arithmetic operations, type casting, and user input
 
 ---
 
-🚀 Future Improvements
-Add input validation (e.g., prevent division by zero)
-Support splitting with tip percentage
-Extend to handle uneven bill splitting
+## 🎯 Learning Outcome
+- Understood how to perform real-world calculations using Java
+- Learned type conversion and casting
+- Practiced taking and validating user input
+- Improved clarity in handling numeric operations
+
+## 🚀 Future Improvements
+- Add input validation (e.g., prevent division by zero)
+- Support splitting with tip percentage
+- Extend to handle uneven bill splitting
 
 ## ▶️ How to Run
 
