@@ -31,3 +31,8 @@ The project focuses on basic arithmetic operations, type casting, and user input
 1. Compile the program:
    ```bash
    javac BillSplitter.java
+
+2. Run the program:
+   ```bash
+   java BillSplitter
+   
